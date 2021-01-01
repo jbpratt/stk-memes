@@ -1,0 +1,12 @@
+{
+  "identity_file": "/home/user/.ssh/id_rsa",
+  "ovh_config": {
+    "app_key": "",
+    "app_secret": "",
+    "consumer_key": "",
+    "project_id": "",
+    "subsidiary": ""
+  },
+  "stk_username": "",
+  "stk_password": ""
+}
